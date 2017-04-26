@@ -1,0 +1,3 @@
+[submodule "phpipam-api-clients"]
+	path = phpipam-api-clients
+	url = https://github.com/phpipam/phpipam-api-clients.git
